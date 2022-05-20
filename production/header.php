@@ -247,7 +247,7 @@
                  <li>
                    <a><i class="fa fa-eye"></i> Vistoriados <span class="fa fa-chevron-down"></span></a>
                    <ul class="nav child_menu">
-                     <li><a href="vistoria.php">Lista de Vistorias</a></li>
+                     <li><a href="vistoria_old.php">Lista de Vistorias</a></li>
                    </ul>
                  </li>
                  <li>
